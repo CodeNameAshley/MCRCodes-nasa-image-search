@@ -1,0 +1,17 @@
+.app{
+  display: flex;
+  flex-direction: column;
+}
+
+/* input{
+  margin: 0 auto;
+  display: block;
+} */
+
+img {
+  width: 40%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
